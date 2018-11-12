@@ -186,6 +186,14 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Adding Firebase
 ![Alt text](./Screenshoots/Screenshot57.png?raw=true "Optional Title")
 
+## Reading Records from Firebase
+![Alt text](./Screenshoots/Screenshot58.png?raw=true "Optional Title")
+
+## Updating Records Firebase
+![Alt text](./Screenshoots/Screenshot59.png?raw=true "Optional Title")
+
+## Adding Firebase
+![Alt text](./Screenshoots/Screenshot60.png?raw=true "Optional Title")
 
 ## Important Articles
 
